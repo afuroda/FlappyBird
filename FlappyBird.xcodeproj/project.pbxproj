@@ -13,6 +13,7 @@
 		1E0C2378201823DD0080A054 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E0C2377201823DD0080A054 /* Assets.xcassets */; };
 		1E0C237B201823DD0080A054 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E0C2379201823DD0080A054 /* LaunchScreen.storyboard */; };
 		1E0C2383201827240080A054 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0C2382201827240080A054 /* GameScene.swift */; };
+		1E364E4F202221D700149ABB /* jump01.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1E364E4E202221D700149ABB /* jump01.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1E0C237A201823DD0080A054 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1E0C237C201823DD0080A054 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1E0C2382201827240080A054 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
+		1E364E4E202221D700149ABB /* jump01.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = jump01.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				1E0C2372201823DD0080A054 /* ViewController.swift */,
 				1E0C2374201823DD0080A054 /* Main.storyboard */,
 				1E0C2377201823DD0080A054 /* Assets.xcassets */,
+				1E364E4E202221D700149ABB /* jump01.mp3 */,
 				1E0C2379201823DD0080A054 /* LaunchScreen.storyboard */,
 				1E0C237C201823DD0080A054 /* Info.plist */,
 				1E0C2382201827240080A054 /* GameScene.swift */,
@@ -127,6 +130,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1E0C237B201823DD0080A054 /* LaunchScreen.storyboard in Resources */,
+				1E364E4F202221D700149ABB /* jump01.mp3 in Resources */,
 				1E0C2378201823DD0080A054 /* Assets.xcassets in Resources */,
 				1E0C2376201823DD0080A054 /* Main.storyboard in Resources */,
 			);
